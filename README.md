@@ -19,5 +19,3 @@ llm = Ollama(model="llama3")  # Example queries:
 3. **Installation + Usage merged** into one code block
 4. **All technical details preserved** in condensed form
 5. **Perfect for GitHub/LinkedIn** with clean Markdown formatting
-
-Just copy this entire block - it's completely self-contained. Let me know if you'd like even further compression!
